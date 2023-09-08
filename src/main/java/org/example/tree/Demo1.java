@@ -5,6 +5,7 @@ import com.sun.org.apache.xalan.internal.xsltc.compiler.util.ResultTreeType;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Queue;
 
 /**
  * @author LiJinLong
@@ -13,10 +14,12 @@ import java.util.List;
  * @date 1.0
  */
 public class Demo1 {
-    public boolean isSymmetric(TreeNode root) {
 
-        return false;
+    public boolean isBalanced(TreeNode root) {
+
     }
+
+
 }
 
 class TreeNode {
@@ -33,9 +36,7 @@ class TreeNode {
 }
 class Node {
     public int val;
-    public Node left;
-    public Node right;
-    public Node next;
+    public List<Node> children;
 
     public Node() {}
 
@@ -43,10 +44,8 @@ class Node {
         val = _val;
     }
 
-    public Node(int _val, Node _left, Node _right, Node _next) {
+    public Node(int _val, List<Node> _children) {
         val = _val;
-        left = _left;
-        right = _right;
-        next = _next;
+        children = _children;
     }
 };

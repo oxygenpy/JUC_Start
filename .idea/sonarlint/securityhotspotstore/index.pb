@@ -99,3 +99,11 @@ f
 6src/main/java/org/example/cas/AtomicReferenceDemo.java,4\6\46d2e1ab38cf0ee75b1f43bfcc00bf9315224642
 Z
 *src/main/java/org/example/cas/CASDemo.java,9\9\99024b9b72275a6f5dd5ff69b6af22a01cc26c71
+i
+9src/main/java/org/example/cas/AtomicIntegerArrayDemo.java,d\1\d1e9a6fee72de3d8d848a3c2f36412b88dde7c11
+d
+4src/main/java/org/example/cas/AtomicIntegerDemo.java,8\2\8222d2f3a6e3f5046250b2d6d0ae66cbf5434bfd
+Z
+*src/main/java/org/example/cas/ABADemo.java,4\9\49cd0b874466cac5ef001ce2f74b3922660a78ee
+i
+9src/main/java/org/example/cas/AccumulatorCompareDemo.java,f\b\fb5ced0a57233780425183b2458961c8d8bc6149

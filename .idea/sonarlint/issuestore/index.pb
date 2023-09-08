@@ -99,3 +99,11 @@ _
 /src/main/java/org/example/cas/SpinLockDemo.java,b\2\b267e233f65773b2e421f1669c71ce30a31f2306
 j
 :src/main/java/org/example/thread/VolatileNoAtomicDemo.java,b\4\b43922b61129c7073215cf1eead948af233da98f
+i
+9src/main/java/org/example/cas/AtomicIntegerArrayDemo.java,d\1\d1e9a6fee72de3d8d848a3c2f36412b88dde7c11
+d
+4src/main/java/org/example/cas/AtomicIntegerDemo.java,8\2\8222d2f3a6e3f5046250b2d6d0ae66cbf5434bfd
+Z
+*src/main/java/org/example/cas/ABADemo.java,4\9\49cd0b874466cac5ef001ce2f74b3922660a78ee
+i
+9src/main/java/org/example/cas/AccumulatorCompareDemo.java,f\b\fb5ced0a57233780425183b2458961c8d8bc6149
