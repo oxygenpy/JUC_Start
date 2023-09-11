@@ -61,8 +61,6 @@ y
 Isrc/main/java/org/example/thread/CompletableFutureWithThreadPoolDemo.java,6\3\63f0a1d3e203b14f9e20a49c917fe936127bf38f
 l
 <src/main/java/org/example/thread/CompletableFutureDemo2.java,2\7\2729f6152c3d0a65d8607d711ea8cb6e776a8e9f
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 o
 ?src/main/java/org/example/thread/CompletableFutureMallDemo.java,4\f\4f058bd60f047e839a16cb53cf7c40339cd5c3fd
 n

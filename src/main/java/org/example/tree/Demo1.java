@@ -2,10 +2,7 @@ package org.example.tree;
 
 import com.sun.org.apache.xalan.internal.xsltc.compiler.util.ResultTreeType;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
+import java.util.*;
 
 /**
  * @author LiJinLong
@@ -14,11 +11,6 @@ import java.util.Queue;
  * @date 1.0
  */
 public class Demo1 {
-
-    public boolean isBalanced(TreeNode root) {
-
-    }
-
 
 }
 

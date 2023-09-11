@@ -63,8 +63,6 @@ c
 3src/main/java/org/example/thread/FutureAPIDemo.java,a\9\a94a1dbe51a3f203a0e5579639544cae73069f81
 j
 :src/main/java/org/example/thread/FutureThreadPoolDemo.java,9\0\9029a9d5c9f7d5072dc28fe5425b52f057afd3c1
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 d
 4src/main/java/org/example/thread/ThreadBaseDemo.java,4\0\40edf65c8528403c277185ed76c933dd0fe83b10
 b
