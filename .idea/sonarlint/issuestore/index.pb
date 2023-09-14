@@ -125,3 +125,5 @@ Z
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 g
 7src/main/java/org/example/thread/ReentrantLockDemo.java,7\9\79f199f2f56c4562b86a73bbb94a0becfc6a5072
+h
+8src/main/java/org/example/syncup/SynchronizedUpDemo.java,c\e\cea245b9b6d84db85e4d02fc88d09f922e50c0d1
